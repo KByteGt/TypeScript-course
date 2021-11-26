@@ -1,1 +1,1 @@
-console.log('Hola TypeScript con Platzi');
+console.log('Hola TypeScript');
